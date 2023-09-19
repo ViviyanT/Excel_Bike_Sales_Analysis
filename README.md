@@ -13,7 +13,7 @@ This project involves the analysis of bike sales customer data using Microsoft E
 
 ## Data Source
 
-The data for this analysis was sourced from a Kaggle dataset, which provides information on bike sales customers.
+The data for this analysis was obtained from a Kaggle dataset containing customer information related to bike sales.
 
 ## Key Steps and Comments
 
@@ -38,15 +38,25 @@ The data for this analysis was sourced from a Kaggle dataset, which provides inf
 
 ## Key Findings
 
-- Provide a summary of the most significant findings and insights obtained from the analysis.
-- Highlight any trends, patterns, or anomalies discovered during the project.
+- **Income Matters**: Customers who bought bikes tend to have higher incomes.
+
+- **Age and Preferences**: The 31-40 age group makes the most bike purchases.
+
+- **Commute and Transport**: Customers with shorter commutes (0-1 miles) buy the most bikes, while those with long commutes (over 10 miles) prefer cars.
+
+- **Car Ownership**: People with no car or 1-2 cars purchase more bikes than those with 3-4 cars.
+
+- **Family Size Impact**: Larger families buy fewer bikes, likely prioritizing cars for practicality.
+
+These key findings summarize the main insights from the analysis.
+
 
 ## Instructions
 
 To view the Excel analysis and dashboard, follow these steps:
 
 1. Open the Excel file included in this repository.
-2. To access comments in Excel:
+2. To access my comments in Excel:
    - Click on the "Review" tab in the Excel ribbon.
    - Click on "Show Comments" to reveal comments added during the analysis.
 
